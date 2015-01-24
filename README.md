@@ -1,5 +1,5 @@
 # Grade-10-project
-Tank game
+Tank game by Eilon Lavi and Khasir Hean.
 Run the game from the MAIN class.
 Press 0 to cheat and skip a level.
 The generator class is a saparate, crude level design program.
