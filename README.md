@@ -2,7 +2,7 @@
 Tank game by Eilon Lavi and Khasir Hean.
 Run the game from the MAIN class.
 Press 0 to cheat and skip a level.
-The generator class is a saparate, crude level design program.
+The generator class is a separate, crude level design program.
 
 Architecture:
 MAIN keeps an array of GameObject subclass instances, and continuously cycles through them, handling requests.
